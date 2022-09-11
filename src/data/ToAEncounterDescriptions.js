@@ -70,6 +70,7 @@ export const ToAEncounterDescriptions = {
 					"51-52": "Crude Map", 
 					"53-54": "1d4xAssorted Gems:Assorted Gems (requires Dungeon Master's Guide)", 
 					"55-56": "A Malachite Ring", 
+					"57-58": "An empty corked vial made from an aarakocra's engraved wing bone",
 					"59-60": "1d10x Silvered Arrow in a rotting quiver", 
 					"61-62": "A Gold Nugget", 
 					"63-64": "A stoppered vial of Serpent Venom", 
